@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Calendar from './Components/Calender.jsx';
+import Calendar from './components/Calender.jsx';
 import EventForm from './components/EventForm.jsx';
 import eventsData from './data/events.json';
 
